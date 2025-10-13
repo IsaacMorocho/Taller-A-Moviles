@@ -10,7 +10,7 @@
 ## Evidencias
 
 - Captura de imagen:
-- 
+  
 <img width="417" height="771" alt="image" src="https://github.com/user-attachments/assets/65b9ca28-e3af-4e6d-9ae3-1f37bfe3708c" />
 
 - Cargar imagen:
